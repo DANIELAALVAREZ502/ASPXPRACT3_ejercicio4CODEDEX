@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|c:\\users\\aadan\\onedrive\\desktop\\aspxpract3parte4\\aspxpract3_createarray6439050\\aspxpract3_createarray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|solutionrelative:aspxpract3_createarray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|c:\\users\\aadan\\onedrive\\desktop\\aspxpract3parte4\\aspxpract3_createarray6439050\\aspxpract3_createarrayparte2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|solutionrelative:aspxpract3_createarrayparte2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|c:\\users\\aadan\\onedrive\\desktop\\aspxpract3parte4\\aspxpract3_createarray6439050\\aspxpract3_createarrayparte2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|solutionrelative:aspxpract3_createarrayparte2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|c:\\users\\aadan\\onedrive\\desktop\\aspxpract3parte4\\aspxpract3_createarray6439050\\aspxpract3_createarray.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64331296-12B2-4109-9A78-460EFEF5DE35}|ASPXPRACT3_CreateArray6439050.csproj|solutionrelative:aspxpract3_createarray.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASPXPRACT3_CreateArrayparte2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArrayparte2.aspx.cs",
+              "RelativeDocumentMoniker": "ASPXPRACT3_CreateArrayparte2.aspx.cs",
+              "ToolTip": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArrayparte2.aspx.cs",
+              "RelativeToolTip": "ASPXPRACT3_CreateArrayparte2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:06:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ASPXPRACT3_CreateArrayparte2.aspx",
+              "DocumentMoniker": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArrayparte2.aspx",
+              "RelativeDocumentMoniker": "ASPXPRACT3_CreateArrayparte2.aspx",
+              "ToolTip": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArrayparte2.aspx",
+              "RelativeToolTip": "ASPXPRACT3_CreateArrayparte2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-15T02:59:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ASPXPRACT3_CreateArray.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArray.aspx.cs",
+              "RelativeDocumentMoniker": "ASPXPRACT3_CreateArray.aspx.cs",
+              "ToolTip": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArray.aspx.cs",
+              "RelativeToolTip": "ASPXPRACT3_CreateArray.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:05:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASPXPRACT3_CreateArray.aspx",
+              "DocumentMoniker": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArray.aspx",
+              "RelativeDocumentMoniker": "ASPXPRACT3_CreateArray.aspx",
+              "ToolTip": "C:\\Users\\aadan\\OneDrive\\Desktop\\ASPXPRACT3parte4\\ASPXPRACT3_CreateArray6439050\\ASPXPRACT3_CreateArray.aspx",
+              "RelativeToolTip": "ASPXPRACT3_CreateArray.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-15T02:59:07.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
